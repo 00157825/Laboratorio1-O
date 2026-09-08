@@ -16,4 +16,5 @@ void IngresarStock(int &stock, int cantidad)
 
 int main()
 {
+    
 }
